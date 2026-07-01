@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pixi/
+*.db
+*.duckdb
+*.db-journal
+dist/
+*.egg-info/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.service/
+session.secret
+websaw.log
+node_modules/
